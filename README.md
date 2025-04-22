@@ -8,7 +8,7 @@
 
 ### Overview
 This repository is a collection of my Power BI dashboards and reports built to analyze and visualize data across different domains. Each project demonstrates my skills in data transformation, and ranges from basic to advanced analysis using e.g DAX calculations, interactive visuals, and storytelling with data.
-- Tools : Power BI - Power Query Editor, DAX (Data Analysis Expressions), Relationships and Data Modeling, Visualizations
+- Tools : Power BI - Power Query Editor, DAX (Data Analysis Expressions), Relationships and Data Modeling, Data Visualization.
 
 ### Water Survey Project
 - Objectives: This project aims to analyze water access, identify regions with insufficient water infrastructure to prioritize development, highlights water contamination levels for targeted intervention, and analyze both queue times and gender disparities to improve accessibility and efficiency.
