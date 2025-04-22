@@ -26,7 +26,7 @@ Project Link: https://drive.google.com/file/d/1VRGbs81MMDaQYDNYBzvV9DB49_MkuEq5/
 ### Water Infrastructure Budget Tracker
 - Objectivies: To allocate budget across multiple regions affected by water availability crises.
 - Outcome:
-   * A total of $125.86M Has been spent, and this has exceeded the budget goal of $120.1M by 4.79%. Therefore monitoring cost overruns is essential to maintain financial sustainability.
+   * A total of $125.86M has been spent, and this has exceeded the budget goal of $120.1M by 4.79%. Therefore monitoring cost overruns is essential to maintain financial sustainability.
   
 Project Link: https://drive.google.com/file/d/1_RInJBkVWBSxLxUsv5AD4bjxlLIYszxi/view?usp=drive_link
 
