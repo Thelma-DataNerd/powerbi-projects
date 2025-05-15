@@ -2,7 +2,7 @@
 - [Overview](#overview)
 - [Water Survey Analysis](#water-survey-analysis)
 - [Water Infrastructure Budget Tracker](#water-infrastructure-budget-tracker)
-- [Presentation](#presentation)
+- [Loan Risk Analysis](#loan-risk-analysis)
 
 ---
 
@@ -39,6 +39,13 @@ Project Link: https://drive.google.com/file/d/1ooPfyaehHznncVYCPPsGfeX6njX9u4Ks/
   
 Project Link: https://drive.google.com/file/d/1vueZgTtRgSxnO8bAZfcpbBpP1LEdUzcf/view?usp=drive_link
 
+---
+### Loan Risk Analysis
+<img src="https://raw.githubusercontent.com/Thelma-DataNerd/powerbi-projects/main/Loan%20Risk%20Analysis.jpg" width="500"/>
 
-### Presentation
- * Project Link: https://drive.google.com/drive/folders/1orDHNuIuiFD_bjF0K-95HnJtoBy2TbBz?usp=drive_link
+- This project focuses specifically on evaluating the risk of loan defaults. It explores the key factors influencing loan defaults using historical lending data. The goal was to help financial institutions make informed lending decisions by identifying high-risk applicants early. 
+
+<img src="https://raw.githubusercontent.com/Thelma-DataNerd/powerbi-projects/main/Loan%20Risk%20Insights.jpg" width="500"/>
+Summary Insights and Recommendations 
+
+Project Link: https://drive.google.com/drive/folders/1orDHNuIuiFD_bjF0K-95HnJtoBy2TbBz?usp=sharing
