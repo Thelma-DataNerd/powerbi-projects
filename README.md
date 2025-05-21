@@ -1,5 +1,6 @@
 ## Power Bi Projects Portfolio
 - [Overview](#overview)
+- [Coca Cola Product Analysis](#coca-cola-product-analysis)
 - [Water Survey Analysis](#water-survey-analysis)
 - [Water Infrastructure Budget Tracker](#water-infrastructure-budget-tracker)
 - [Loan Risk Analysis](#loan-risk-analysis)
@@ -9,6 +10,14 @@
 ### Overview
 This repository is a collection of my Power BI dashboards and reports built to analyze and visualize data across different domains. Each project demonstrates my skills in data transformation, and ranges from basic to advanced analysis using e.g DAX calculations, interactive visuals, and storytelling with data.
 - Tools : Power BI - Power Query Editor, DAX (Data Analysis Expressions), Relationships and Data Modeling, Data Visualization.
+
+### Coca Cola Product Analysis
+<img src="https://raw.githubusercontent.com/Thelma-DataNerd/powerbi-projects/main/Coca%20Cola%20Dashboad.jpg" width="500"/>
+
+
+- I created this dashboard to understand how different beverage products are performing and where they’re making the most impact.The analysis cuts across six (6) beverage brands with with a special focus on Diet Coke. Using Power BI, I broke down sales, profit trends, and regional insights to tell a clear story that’s easy to understand at a glance. This dashboard is a blend of data analysis and storytelling, designed to support better marketing and sales strategies.
+
+  Project Link: https://drive.google.com/file/d/1oLyz90WKmkFQct5ntHYo2L76GcuDANHX/view?usp=drive_link
 
 ### Water Survey Analysis
 <img src="https://raw.githubusercontent.com/Thelma-DataNerd/powerbi-projects/main/Water%20Survey.jpg" width="500"/>
